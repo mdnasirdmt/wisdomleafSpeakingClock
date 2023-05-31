@@ -109,4 +109,8 @@ The Speaking Clock API includes unit tests and integration tests. You can run th
 - **Swagger URLs**
         http://localhost:8080/swagger-ui/index.html
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 93f4ce223056db518b70f1eae17434d0a6c9f47c
